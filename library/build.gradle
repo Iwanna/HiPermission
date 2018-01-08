@@ -32,9 +32,9 @@ dependencies {
 }
 
 //项目主页
-def siteUrl = 'https://github.com/yewei02538/HiPermission'
+def siteUrl = 'https://github.com/Iwanna/HiPermission'
 //项目的git地址
-def gitUrl = 'https://github.com/yewei02538/HiPermission.git'
+def gitUrl = 'https://github.com/Iwanna/HiPermission.git'
 //发布到JCenter上的项目名字
 def libName = "HiPermission"
 
@@ -94,9 +94,9 @@ install {
                 developers {
                     developer {
                         //开发者的个人信息
-                        id 'yewei02538'
-                        name 'yewei02538'
-                        email 'hiweyye@gmail.com'
+                        id 'liuduanbing'
+                        name 'iwannafree'
+                        email 'liuduanbing@gmail.com'
                     }
                 }
                 scm {
